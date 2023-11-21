@@ -1,6 +1,10 @@
 # Plug-ins
 
-Author: Alberto Gomez (alberto.gomez@kcl.ac.uk)
+Authors: 
+
+* Hamideh Kerdegari
+* Nhat Phung
+* Alberto Gomez (alberto.gomez@kcl.ac.uk)
 
 # Summary
 PRETUS Plug-ins for the muscle ultrasound work. These plug-ins work with the pretus software which can be retrieved  [here](https://github.com/gomezalberto/pretus).
